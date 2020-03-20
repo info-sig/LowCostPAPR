@@ -4,9 +4,22 @@ Main inspiration point: https://github.com/jcl5m1/ventilator/wiki/Build-a-Low-Co
 
 ## Technical requirements
 
+For internal use only, not to be published publicly.
+
 ### Air flow rate
 
 Total lung capacity is about 6L and respiratory rate is in order of (depending on the age) 12 to 18 breaths per minute.
+
+Average resting respiratory rates by age are:
+
+- birth to 6 weeks: 30–40 breaths per minute
+- 6 months: 25–40 breaths per minute
+- 3 years: 20–30 breaths per minute
+- 6 years: 18–25 breaths per minute
+- 10 years: 17–23 breaths per minute
+- **Adults**: 12-18 breaths per minute[9]
+- Elderly ≥ 65 years old: 12-28 breaths per minute.
+- Elderly ≥ 80 years old: 10-30 breaths per minute.
 
 Minimal flow rate for breathing is calculated to:
 >minimum: 6L * 12/min = 72 L/min
