@@ -23,12 +23,12 @@ Average resting respiratory rates by age are:
 
 Minimal flow rate for breathing is calculated to:
 >minimum: 6L * 12/min = 72 L/min
-maximum: 6L * 18/min = 108 L/min
-average: 90L/min
+>maximum: 6L * 18/min = 108 L/min
+>average: 90L/min
 
 for good engineering measure we will multiply the average by 1.5
 
->Desired flow rate = 135L/min
+>Desired flow rate: 135L/min
 
 ### Pressure
 
@@ -43,3 +43,13 @@ Breathing pressure should be in range:
 - Pressure spikes with measurable positive work of breathing: <5 mbar (500 Pa)
 
 ![Breathing Resistance](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Breathing_Resistance.svg/2880px-Breathing_Resistance.svg.png)
+
+### Filter connector types
+
+- EUROFILTER&reg; 7592/D
+- STANAG 4155 (NATO)
+- 3M&trade; EA/Case
+- DIN 40mm
+- Deprecated: 60mm used on Yugoslavian M1 gas mask
+
+TODO: Find out more about each type because there are a lot of potential types
