@@ -46,10 +46,27 @@ Breathing pressure should be in range:
 
 ### Filter connector types
 
-- EUROFILTER&reg; 7592/D
+- EURFILTER&reg;
+- EN 148
 - STANAG 4155 (NATO)
 - 3M&trade; EA/Case
 - DIN 40mm
 - Deprecated: 60mm used on Yugoslavian M1 gas mask
 
 TODO: Find out more about each type because there are a lot of potential types
+
+### Measurements
+
+While breathing heavily through the EURFILTER&reg; 7592/D filter, pressure was recorded using low tech method.
+
+Apparatus consists of:
+
+- (1) Mask [EURMASK UNO](http://www.millasrl.it/en/prodotti/eurmask-uno/)
+- (2) Filter [EURFILTER&reg; 7592/D](http://www.millasrl.it/en/prodotti/filters-for-eurmask-half-masks/)
+- (4) flexible silicone tube (any flexible tube will work)
+- (5) straight glass tube (can be plastic, transparent)
+- (6) water container
+
+#### Results
+
+Pressure of about 16cmH~2~O (1569Pa or 15.7mbar) was recorded. That makes it outside the EN250 norm. But that is to be expected for heavy breathing.
